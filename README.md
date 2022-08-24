@@ -45,9 +45,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 <b><details><summary>🔄How to Update Bot🔄</summary>
 
-> [VIDEO](https://drive.google.com/file/d/1798s8erVW31EcmK3Opq-QuV7GG4byyoH/view)
 
-</b>
 </details>
 
 <b><details><summary>📤How to Upload Images To Alive Msg📤</summary>
@@ -139,6 +137,6 @@ Recommended WhatsApp👇
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
+
 * [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
+
